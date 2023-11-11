@@ -1,0 +1,19 @@
+{
+  "friends":[
+    {
+        "name":"neha",
+        "degree":"mechanical"
+    },
+}   {
+        "name":"anjali",
+        "degree":"computer science"
+    },
+    {
+        "name":"anisha",
+        "degree":"biology"
+    }
+  ]
+}
+
+#ALL THE CONTENTS OF TXT FILES ARE STRING
+#in json we use double strings only

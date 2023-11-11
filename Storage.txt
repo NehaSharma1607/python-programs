@@ -1,0 +1,5 @@
+name,age,college,course
+neha,18,iit,mechanical
+anjali,18,iit,computer
+anisha,18,medical college,medical
+shreya,19,medical college,medical
